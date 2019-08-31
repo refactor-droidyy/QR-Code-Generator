@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="enter_email_id">Enter Email id</string>
+    <string name="generate">Generate</string>
+</resources>
